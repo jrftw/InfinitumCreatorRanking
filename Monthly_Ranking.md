@@ -1,6 +1,6 @@
 # Infinitum LIVE Creator Network
 ## ? Monthly Diamond Ranking
-Last Updated: 10/4/2025, 12:18:17 PM
+Last Updated: 10/4/2025, 6:17:14 PM
 
 | Rank | Username | Diamonds (This Month) |
 |------|----------|------------------------|
