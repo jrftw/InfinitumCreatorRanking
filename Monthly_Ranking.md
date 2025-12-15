@@ -1,6 +1,6 @@
 # Infinitum LIVE Creator Network
 ## ? Monthly Diamond Ranking
-Last Updated: 12/15/2025, 12:17:13 AM
+Last Updated: 12/15/2025, 6:17:13 AM
 
 | Rank | Username | Diamonds (This Month) |
 |------|----------|------------------------|
@@ -386,7 +386,7 @@ Last Updated: 12/15/2025, 12:17:13 AM
 | 380 | dareondeshay | 794 |
 | 381 | babyy_girll99 | 766 |
 | 382 | jayshipstonofficial | 762 |
-| 383 | mcdickinher69 | 761 |
+| 383 | dawgsfanwill | 761 |
 | 384 | 604taliat | 735 |
 | 385 | ladiikeesha | 734 |
 | 386 | adamv585 | 716 |
