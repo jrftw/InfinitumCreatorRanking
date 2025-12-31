@@ -1,6 +1,6 @@
 # Infinitum LIVE Creator Network
 ## ? Last 6 Months Diamond Ranking
-Last Updated: 12/31/2025, 12:17:11 AM
+Last Updated: 12/31/2025, 6:17:12 AM
 
 | Rank | Username | Total Diamonds |
 |------|----------|----------------|
@@ -1166,8 +1166,8 @@ Last Updated: 12/31/2025, 12:17:11 AM
 | 1160 | kyleemelanin | 349 |
 | 1161 | thej.o.a.t_stl | 348 |
 | 1162 | pinkitty_drinkitty_skyez | 346 |
-| 1163 | anxabana | 346 |
-| 1164 | kaayrrmm | 346 |
+| 1163 | kaayrrmm | 346 |
+| 1164 | anxabana | 346 |
 | 1165 | itsdesjbl | 345 |
 | 1166 | sybstream | 343 |
 | 1167 | shannysbeauty | 342 |
@@ -1431,8 +1431,8 @@ Last Updated: 12/31/2025, 12:17:11 AM
 | 1425 | garyjonesjrofficial | 41 |
 | 1426 | queenbliss0069 | 41 |
 | 1427 | mrarren | 41 |
-| 1428 | marvelousjay__ | 40 |
-| 1429 | kinghill9031 | 40 |
+| 1428 | kinghill9031 | 40 |
+| 1429 | marvelousjay__ | 40 |
 | 1430 | infiniteflaws | 40 |
 | 1431 | muncy_ | 40 |
 | 1432 | lost_mermaid4u | 40 |
@@ -1473,10 +1473,10 @@ Last Updated: 12/31/2025, 12:17:11 AM
 | 1467 | mrs.elliott2025 | 26 |
 | 1468 | izziekx | 26 |
 | 1469 | jesseshad1 | 26 |
-| 1470 | wolfey777 | 25 |
-| 1471 | 0420ninaa | 25 |
-| 1472 | shamara2tuff | 25 |
-| 1473 | serialpreneur_of_faith | 25 |
+| 1470 | 0420ninaa | 25 |
+| 1471 | shamara2tuff | 25 |
+| 1472 | serialpreneur_of_faith | 25 |
+| 1473 | wolfey777 | 25 |
 | 1474 | nixter6370 | 24 |
 | 1475 | eblovaa | 24 |
 | 1476 | anthrax__26 | 24 |
@@ -1522,8 +1522,8 @@ Last Updated: 12/31/2025, 12:17:11 AM
 | 1516 | gamingwitnishaa | 15 |
 | 1517 | musicwithshaasia | 14 |
 | 1518 | suzieq521 | 14 |
-| 1519 | nozkazemi | 14 |
-| 1520 | jujushrimpy_off | 14 |
+| 1519 | jujushrimpy_off | 14 |
+| 1520 | nozkazemi | 14 |
 | 1521 | baddiegoddess25 | 14 |
 | 1522 | adriane_ally | 14 |
 | 1523 | ashasloancampbell | 14 |
@@ -1572,14 +1572,14 @@ Last Updated: 12/31/2025, 12:17:11 AM
 | 1566 | mariadones4 | 9 |
 | 1567 | ngbdayday | 9 |
 | 1568 | sleepysyren | 9 |
-| 1569 | deleon_richards | 8 |
-| 1570 | famousdropz | 8 |
-| 1571 | savvy.ray89 | 8 |
-| 1572 | edu_25.4 | 8 |
-| 1573 | missbehaven03 | 8 |
-| 1574 | theerealkingryan | 8 |
-| 1575 | tae4rmbenhill | 8 |
-| 1576 | chucky_256 | 8 |
+| 1569 | savvy.ray89 | 8 |
+| 1570 | deleon_richards | 8 |
+| 1571 | famousdropz | 8 |
+| 1572 | missbehaven03 | 8 |
+| 1573 | theerealkingryan | 8 |
+| 1574 | tae4rmbenhill | 8 |
+| 1575 | chucky_256 | 8 |
+| 1576 | edu_25.4 | 8 |
 | 1577 | officialkaven876 | 7 |
 | 1578 | neshaaaa._16 | 7 |
 | 1579 | da.britway | 7 |
@@ -1644,8 +1644,8 @@ Last Updated: 12/31/2025, 12:17:11 AM
 | 1638 | catarinareed6 | 3 |
 | 1639 | 2am.akai | 2 |
 | 1640 | painbehindtheseeyes | 2 |
-| 1641 | mowgli_ecv | 2 |
-| 1642 | ashley_momma02 | 2 |
+| 1641 | ashley_momma02 | 2 |
+| 1642 | mowgli_ecv | 2 |
 | 1643 | strawberriipockyy | 2 |
 | 1644 | hannah.gillen | 2 |
 | 1645 | whosmlh | 2 |
