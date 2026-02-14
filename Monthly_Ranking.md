@@ -1,6 +1,6 @@
 # Infinitum LIVE Creator Network
 ## ? Monthly Diamond Ranking
-Last Updated: 2/14/2026, 12:17:12 AM
+Last Updated: 2/14/2026, 6:17:12 AM
 
 | Rank | Username | Diamonds (This Month) |
 |------|----------|------------------------|
@@ -238,7 +238,7 @@ Last Updated: 2/14/2026, 12:17:12 AM
 | 232 | superderek908 | 2829 |
 | 233 | unknown__artist_13 | 2825 |
 | 234 | michelleleeannamu | 2806 |
-| 235 | ashfafo | 2795 |
+| 235 | ashcrazybitch | 2795 |
 | 236 | serentipsytavern | 2721 |
 | 237 | sexysingleladyt | 2685 |
 | 238 | xvalkyriee | 2670 |
