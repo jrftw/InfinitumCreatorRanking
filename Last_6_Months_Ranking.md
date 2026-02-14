@@ -1,6 +1,6 @@
 # Infinitum LIVE Creator Network
 ## ? Last 6 Months Diamond Ranking
-Last Updated: 2/14/2026, 12:17:11 AM
+Last Updated: 2/14/2026, 6:17:10 AM
 
 | Rank | Username | Total Diamonds |
 |------|----------|----------------|
@@ -553,7 +553,7 @@ Last Updated: 2/14/2026, 12:17:11 AM
 | 547 | daredevil6606 | 7895 |
 | 548 | watchout.tj | 7850 |
 | 549 | landocapalott | 7825 |
-| 550 | ashfafo | 7818 |
+| 550 | ashcrazybitch | 7818 |
 | 551 | kpebblesmua | 7748 |
 | 552 | thekingjabroni | 7672 |
 | 553 | saralimitless | 7656 |
