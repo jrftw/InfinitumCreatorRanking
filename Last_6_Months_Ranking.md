@@ -1,6 +1,6 @@
 # Infinitum LIVE Creator Network
 ## ? Last 6 Months Diamond Ranking
-Last Updated: 3/6/2026, 12:17:11 AM
+Last Updated: 3/6/2026, 6:17:12 AM
 
 | Rank | Username | Total Diamonds |
 |------|----------|----------------|
@@ -350,19 +350,19 @@ Last Updated: 3/6/2026, 12:17:11 AM
 | 344 | unknown__artist_13 | 24732 |
 | 345 | itsmemiked | 24215 |
 | 346 | atomicredman | 23965 |
-| 347 | theoctaviasrwilliamssr | 23946 |
-| 348 | selena_norville | 23539 |
-| 349 | daryl.bunn | 23318 |
-| 350 | i.am.his15 | 23041 |
-| 351 | shane9234 | 22999 |
-| 352 | iiamkdd | 22741 |
-| 353 | brian_huerta13 | 22648 |
-| 354 | infernodubz25 | 22560 |
-| 355 | papa_vinnie | 22479 |
-| 356 | gvgnumbplex | 22444 |
+| 347 | selena_norville | 23539 |
+| 348 | daryl.bunn | 23318 |
+| 349 | i.am.his15 | 23041 |
+| 350 | shane9234 | 22999 |
+| 351 | iiamkdd | 22741 |
+| 352 | brian_huerta13 | 22648 |
+| 353 | infernodubz25 | 22560 |
+| 354 | papa_vinnie | 22479 |
+| 355 | gvgnumbplex | 22444 |
+| 356 | mrsghosty27 | 22234 |
 | 357 | theterrorofdeath | 22229 |
 | 358 | 604taliat | 21856 |
-| 359 | croatianlanaaa | 21783 |
+| 359 | croatianlana | 21783 |
 | 360 | julesxno | 21656 |
 | 361 | camptalk_with_chris | 21444 |
 | 362 | hoodfame25 | 21203 |
