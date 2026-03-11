@@ -1,6 +1,6 @@
 # Infinitum LIVE Creator Network
 ## ? Last 6 Months Diamond Ranking
-Last Updated: 3/11/2026, 12:17:12 AM
+Last Updated: 3/11/2026, 6:17:13 AM
 
 | Rank | Username | Total Diamonds |
 |------|----------|----------------|
