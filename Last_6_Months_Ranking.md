@@ -1,6 +1,6 @@
 # Infinitum LIVE Creator Network
 ## ? Last 6 Months Diamond Ranking
-Last Updated: 7/22/2026, 12:17:11 AM
+Last Updated: 7/22/2026, 6:17:14 AM
 
 | Rank | Username | Total Diamonds |
 |------|----------|----------------|
@@ -721,8 +721,8 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 715 | nathan_4_1 | 2684 |
 | 716 | kingandqueenjoker2025 | 2669 |
 | 717 | theyknowhaylo | 2640 |
-| 718 | lovelybree08 | 2629 |
-| 719 | marvelousjay__ | 2629 |
+| 718 | marvelousjay__ | 2629 |
+| 719 | lovelybree08 | 2629 |
 | 720 | therealrums | 2615 |
 | 721 | joshfrisbie763 | 2613 |
 | 722 | drummawayne | 2583 |
@@ -811,8 +811,8 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 805 | danielthetrombonist | 1640 |
 | 806 | josyfn_ | 1629 |
 | 807 | 007key_ | 1591 |
-| 808 | courtn3y.thompson | 1581 |
-| 809 | rockenbock | 1581 |
+| 808 | rockenbock | 1581 |
+| 809 | courtn3y.thompson | 1581 |
 | 810 | feldemon_uriel | 1560 |
 | 811 | kiingchriss_ | 1557 |
 | 812 | punkrock | 1555 |
@@ -874,8 +874,8 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 868 | jay_nastytt | 1087 |
 | 869 | x_halogirl_x | 1061 |
 | 870 | the_papa_loser | 1057 |
-| 871 | loloe_loloe | 1042 |
-| 872 | tomikocamille | 1042 |
+| 871 | tomikocamille | 1042 |
+| 872 | loloe_loloe | 1042 |
 | 873 | syremintheflesh | 1037 |
 | 874 | jonnyhermiz | 1032 |
 | 875 | brandon.johnny | 1030 |
@@ -1062,8 +1062,8 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1056 | marisastang85 | 271 |
 | 1057 | kadenmattinson | 271 |
 | 1058 | prxdigy6 | 268 |
-| 1059 | theposhacademy | 264 |
-| 1060 | djfresh2.020 | 264 |
+| 1059 | djfresh2.020 | 264 |
+| 1060 | theposhacademy | 264 |
 | 1061 | htxvally | 258 |
 | 1062 | sheezydadon | 257 |
 | 1063 | luh._.fendi | 257 |
@@ -1134,10 +1134,10 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1128 | the.killshot | 135 |
 | 1129 | lasportybarbie | 135 |
 | 1130 | james.william17 | 134 |
-| 1131 | edytrocha | 133 |
-| 1132 | magicvoice1408 | 133 |
-| 1133 | cloudydreams_xo2 | 131 |
-| 1134 | aryannaboymomma | 131 |
+| 1131 | magicvoice1408 | 133 |
+| 1132 | edytrocha | 133 |
+| 1133 | aryannaboymomma | 131 |
+| 1134 | cloudydreams_xo2 | 131 |
 | 1135 | queenhorus | 131 |
 | 1136 | theburntdoob | 129 |
 | 1137 | 5_fires | 129 |
@@ -1155,11 +1155,11 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1149 | laborioficialpr | 117 |
 | 1150 | 19scorpion83j | 116 |
 | 1151 | shelleyydawnna | 116 |
-| 1152 | tiketoker_james | 114 |
-| 1153 | kaileypaidinfull | 114 |
-| 1154 | c4dev.ent | 114 |
-| 1155 | magicallydelicious__ | 113 |
-| 1156 | iiambunnii | 113 |
+| 1152 | kaileypaidinfull | 114 |
+| 1153 | c4dev.ent | 114 |
+| 1154 | tiketoker_james | 114 |
+| 1155 | iiambunnii | 113 |
+| 1156 | magicallydelicious__ | 113 |
 | 1157 | joni12901 | 113 |
 | 1158 | christopherleeherod | 113 |
 | 1159 | dragon_wizard80 | 112 |
@@ -1180,8 +1180,8 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1174 | itzlot.6800 | 102 |
 | 1175 | salesbyzzz | 101 |
 | 1176 | pleasestoptrippin | 101 |
-| 1177 | omgitzgiigii | 100 |
-| 1178 | mookier2012 | 100 |
+| 1177 | mookier2012 | 100 |
+| 1178 | omgitzgiigii | 100 |
 | 1179 | nicoleciara8 | 100 |
 | 1180 | fungszwe | 100 |
 | 1181 | luh_naiah | 100 |
@@ -1216,8 +1216,8 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1210 | momsalilbatty | 70 |
 | 1211 | gamesandshorts | 70 |
 | 1212 | bambi19888 | 68 |
-| 1213 | sharnee.bkup | 66 |
-| 1214 | yuno_dawn | 66 |
+| 1213 | yuno_dawn | 66 |
+| 1214 | sharnee.bkup | 66 |
 | 1215 | nottbcr | 63 |
 | 1216 | _itss.jazzyyy | 62 |
 | 1217 | lovepam_ | 61 |
@@ -1227,9 +1227,9 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1221 | mamitascupz | 59 |
 | 1222 | stormallan | 56 |
 | 1223 | stunnaaaa.d | 56 |
-| 1224 | wolfey777 | 54 |
-| 1225 | lollipop_sammy | 54 |
-| 1226 | ramonabludau7 | 54 |
+| 1224 | lollipop_sammy | 54 |
+| 1225 | ramonabludau7 | 54 |
+| 1226 | wolfey777 | 54 |
 | 1227 | officiallkae | 53 |
 | 1228 | slytherin_1996 | 53 |
 | 1229 | v_e_n_n_y_2_6 | 53 |
@@ -1266,8 +1266,8 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1260 | hydrotetra | 37 |
 | 1261 | shadowbunnygurl | 37 |
 | 1262 | darlabby | 37 |
-| 1263 | xxclusive.mmxx | 36 |
-| 1264 | swampstorm504 | 36 |
+| 1263 | swampstorm504 | 36 |
+| 1264 | xxclusive.mmxx | 36 |
 | 1265 | official_lorissa_ | 36 |
 | 1266 | maxslv | 36 |
 | 1267 | savvy.ray89 | 36 |
@@ -1327,10 +1327,10 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1321 | skiddy113 | 20 |
 | 1322 | thedailyjas | 20 |
 | 1323 | honey.bunnnch | 19 |
-| 1324 | iamkeithheffernan | 18 |
-| 1325 | char._.bear01 | 18 |
-| 1326 | diningwithdoan | 16 |
-| 1327 | karma_missmisfit | 16 |
+| 1324 | char._.bear01 | 18 |
+| 1325 | iamkeithheffernan | 18 |
+| 1326 | karma_missmisfit | 16 |
+| 1327 | diningwithdoan | 16 |
 | 1328 | annalynn24 | 16 |
 | 1329 | uncleducky80 | 16 |
 | 1330 | matchsticksforgottenhist | 16 |
@@ -1353,13 +1353,13 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1347 | thekingcanni | 13 |
 | 1348 | jayban55 | 13 |
 | 1349 | ogcr3w | 13 |
-| 1350 | edu_25.4 | 12 |
-| 1351 | officialkaveen42 | 12 |
-| 1352 | taylorj_awesome1 | 12 |
-| 1353 | daftnoob | 12 |
-| 1354 | theashgraham | 12 |
-| 1355 | grippedgaming | 12 |
-| 1356 | thatfatbihhjluh | 12 |
+| 1350 | officialkaveen42 | 12 |
+| 1351 | taylorj_awesome1 | 12 |
+| 1352 | daftnoob | 12 |
+| 1353 | theashgraham | 12 |
+| 1354 | grippedgaming | 12 |
+| 1355 | thatfatbihhjluh | 12 |
+| 1356 | edu_25.4 | 12 |
 | 1357 | itzchavela | 11 |
 | 1358 | kbabii95 | 11 |
 | 1359 | vantasiadivine | 11 |
@@ -1369,8 +1369,8 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1363 | hailwild_ | 11 |
 | 1364 | desireepowell7 | 11 |
 | 1365 | nursedanilpn | 10 |
-| 1366 | hellostretcha | 10 |
-| 1367 | redbabydoll732 | 10 |
+| 1366 | redbabydoll732 | 10 |
+| 1367 | hellostretcha | 10 |
 | 1368 | theeuellshow | 10 |
 | 1369 | bambii311 | 10 |
 | 1370 | billybarty_ | 10 |
@@ -1391,11 +1391,11 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1385 | boricua_bori | 7 |
 | 1386 | kaayrrmm | 7 |
 | 1387 | bankrolljayyyyy | 7 |
-| 1388 | ubergedden | 6 |
-| 1389 | nosif32 | 6 |
-| 1390 | thedvilsdandruff | 6 |
-| 1391 | xobriannax | 6 |
-| 1392 | sloxf32_ | 6 |
+| 1388 | thedvilsdandruff | 6 |
+| 1389 | xobriannax | 6 |
+| 1390 | sloxf32_ | 6 |
+| 1391 | ubergedden | 6 |
+| 1392 | nosif32 | 6 |
 | 1393 | jokerslover666 | 6 |
 | 1394 | cyb3rgam1ng | 6 |
 | 1395 | thatsnatalia2u | 6 |
@@ -1408,9 +1408,9 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1402 | andreamarie330 | 5 |
 | 1403 | yfn_jav0n | 5 |
 | 1404 | .lmktana | 5 |
-| 1405 | tiffanymark3 | 4 |
-| 1406 | thelearobinson | 4 |
-| 1407 | thefearless_queen30 | 4 |
+| 1405 | thelearobinson | 4 |
+| 1406 | thefearless_queen30 | 4 |
+| 1407 | tiffanymark3 | 4 |
 | 1408 | nabil_galeano | 4 |
 | 1409 | thesauce49 | 4 |
 | 1410 | thaphenomenal1aththagrea | 4 |
@@ -1435,9 +1435,9 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1429 | studiofiftycollectables | 3 |
 | 1430 | jdondabeat_ | 2 |
 | 1431 | ydcmarquis | 2 |
-| 1432 | theonlyjontt_ | 2 |
-| 1433 | reereegoldddd | 2 |
-| 1434 | laysiaaalii | 2 |
+| 1432 | laysiaaalii | 2 |
+| 1433 | theonlyjontt_ | 2 |
+| 1434 | reereegoldddd | 2 |
 | 1435 | thisismeshrinking | 2 |
 | 1436 | family_lucero | 2 |
 | 1437 | .......11_11 | 2 |
@@ -1451,10 +1451,10 @@ Last Updated: 7/22/2026, 12:17:11 AM
 | 1445 | thatvampirechickk | 2 |
 | 1446 | kyleemelanin | 2 |
 | 1447 | skykingatelo | 1 |
-| 1448 | samuelitos_world | 1 |
-| 1449 | thatgirlleynco | 1 |
-| 1450 | pntbllcrkhed2 | 1 |
-| 1451 | brobrolovemywife_worthit | 1 |
+| 1448 | thatgirlleynco | 1 |
+| 1449 | pntbllcrkhed2 | 1 |
+| 1450 | brobrolovemywife_worthit | 1 |
+| 1451 | samuelitos_world | 1 |
 | 1452 | thenamesjay69 | 1 |
 | 1453 | rinaknowsskin | 1 |
 | 1454 | mahnoorch1993 | 1 |
