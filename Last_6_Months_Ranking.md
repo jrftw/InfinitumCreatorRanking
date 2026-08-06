@@ -1,6 +1,6 @@
 # Infinitum LIVE Creator Network
 ## ? Last 6 Months Diamond Ranking
-Last Updated: 8/5/2026, 6:17:11 PM
+Last Updated: 8/6/2026, 12:17:10 AM
 
 | Rank | Username | Total Diamonds |
 |------|----------|----------------|
@@ -618,8 +618,8 @@ Last Updated: 8/5/2026, 6:17:11 PM
 | 612 | jayshipstonofficial | 4572 |
 | 613 | qmoby | 4561 |
 | 614 | ucffurry | 4457 |
-| 615 | james.william17 | 4389 |
-| 616 | lowkahhh | 4389 |
+| 615 | lowkahhh | 4389 |
+| 616 | james.william17 | 4389 |
 | 617 | 1anaamarie | 4375 |
 | 618 | bethny.a | 4351 |
 | 619 | ttvlnxah | 4336 |
@@ -917,8 +917,8 @@ Last Updated: 8/5/2026, 6:17:11 PM
 | 911 | jccnxtup | 755 |
 | 912 | theerealkingryan | 742 |
 | 913 | hallie.warner6 | 741 |
-| 914 | xxclusive.mmxx | 731 |
-| 915 | mr.tee.chap | 731 |
+| 914 | mr.tee.chap | 731 |
+| 915 | xxclusive.mmxx | 731 |
 | 916 | yourbestfriend1968 | 727 |
 | 917 | 1_un_ruly_rebel | 727 |
 | 918 | thehoggerdad | 713 |
@@ -1136,9 +1136,9 @@ Last Updated: 8/5/2026, 6:17:11 PM
 | 1130 | laborioficialpr | 117 |
 | 1131 | diamondcash18 | 117 |
 | 1132 | shelleyydawnna | 116 |
-| 1133 | kaileypaidinfull | 114 |
-| 1134 | _00_la_ | 114 |
-| 1135 | tiketoker_james | 114 |
+| 1133 | tiketoker_james | 114 |
+| 1134 | kaileypaidinfull | 114 |
+| 1135 | _00_la_ | 114 |
 | 1136 | andyyapps | 113 |
 | 1137 | iiambunnii | 113 |
 | 1138 | foreignizzymusic | 112 |
@@ -1151,8 +1151,8 @@ Last Updated: 8/5/2026, 6:17:11 PM
 | 1145 | itzverraa | 106 |
 | 1146 | chronoscommander | 104 |
 | 1147 | starr_marie555 | 103 |
-| 1148 | accessoriesplus_llc | 102 |
-| 1149 | homegirlbecookin | 102 |
+| 1148 | homegirlbecookin | 102 |
+| 1149 | accessoriesplus_llc | 102 |
 | 1150 | modestfrog61521 | 102 |
 | 1151 | joni12901 | 102 |
 | 1152 | young_bandzbaby | 102 |
@@ -1181,8 +1181,8 @@ Last Updated: 8/5/2026, 6:17:11 PM
 | 1175 | justpaget00 | 91 |
 | 1176 | decoy1221_spidey | 90 |
 | 1177 | heartlessdaze | 88 |
-| 1178 | ydcmarquis | 87 |
-| 1179 | joeyblendz3 | 87 |
+| 1178 | joeyblendz3 | 87 |
+| 1179 | ydcmarquis | 87 |
 | 1180 | pa409tx | 87 |
 | 1181 | raemarie0132 | 85 |
 | 1182 | souler547 | 83 |
@@ -1201,8 +1201,8 @@ Last Updated: 8/5/2026, 6:17:11 PM
 | 1195 | evghavoc | 69 |
 | 1196 | edytrocha | 68 |
 | 1197 | pressure1420 | 67 |
-| 1198 | yuno_dawn | 66 |
-| 1199 | sharnee.bkup | 66 |
+| 1198 | sharnee.bkup | 66 |
+| 1199 | yuno_dawn | 66 |
 | 1200 | officialkaveen42 | 65 |
 | 1201 | realcamillo | 63 |
 | 1202 | lovepam_ | 61 |
@@ -1313,9 +1313,9 @@ Last Updated: 8/5/2026, 6:17:11 PM
 | 1307 | dynamiiiccc | 19 |
 | 1308 | alicequinn9420 | 19 |
 | 1309 | zaraventure | 19 |
-| 1310 | char._.bear01 | 18 |
-| 1311 | jxhnjacxb | 18 |
-| 1312 | iamkeithheffernan | 18 |
+| 1310 | iamkeithheffernan | 18 |
+| 1311 | char._.bear01 | 18 |
+| 1312 | jxhnjacxb | 18 |
 | 1313 | payroll_chris | 17 |
 | 1314 | mrsmajic | 17 |
 | 1315 | nottbcr | 17 |
@@ -1335,17 +1335,17 @@ Last Updated: 8/5/2026, 6:17:11 PM
 | 1329 | thekingcanni | 13 |
 | 1330 | kay.lynne.schaible.89 | 13 |
 | 1331 | ogcr3w | 13 |
-| 1332 | amber.texas | 12 |
-| 1333 | thedvilsdandruff | 12 |
-| 1334 | taylorj_awesome1 | 12 |
-| 1335 | daftnoob | 12 |
-| 1336 | buyitnowlive | 12 |
-| 1337 | grippedgaming | 12 |
-| 1338 | thatfatbihhjluh | 12 |
-| 1339 | light.israel90 | 12 |
-| 1340 | edu_25.4 | 12 |
-| 1341 | maccnjew | 11 |
-| 1342 | goldenpebbles19 | 11 |
+| 1332 | thedvilsdandruff | 12 |
+| 1333 | edu_25.4 | 12 |
+| 1334 | amber.texas | 12 |
+| 1335 | taylorj_awesome1 | 12 |
+| 1336 | daftnoob | 12 |
+| 1337 | buyitnowlive | 12 |
+| 1338 | grippedgaming | 12 |
+| 1339 | thatfatbihhjluh | 12 |
+| 1340 | light.israel90 | 12 |
+| 1341 | goldenpebbles19 | 11 |
+| 1342 | maccnjew | 11 |
 | 1343 | kbabii95 | 11 |
 | 1344 | itsdesjbl | 11 |
 | 1345 | jyuubiwolf | 11 |
@@ -1403,8 +1403,8 @@ Last Updated: 8/5/2026, 6:17:11 PM
 | 1397 | rukebar | 4 |
 | 1398 | xoshilohluv | 4 |
 | 1399 | natalino952 | 4 |
-| 1400 | ceejolene | 3 |
-| 1401 | eentei | 3 |
+| 1400 | eentei | 3 |
+| 1401 | ceejolene | 3 |
 | 1402 | whitney4life2 | 3 |
 | 1403 | detroitjaz | 3 |
 | 1404 | error_jess21 | 3 |
@@ -1426,13 +1426,13 @@ Last Updated: 8/5/2026, 6:17:11 PM
 | 1420 | laysiaaalii | 2 |
 | 1421 | reereegoldddd | 2 |
 | 1422 | thatvampirechickk | 2 |
-| 1423 | firefighterwoman2277dj | 1 |
-| 1424 | jaimmies | 1 |
-| 1425 | alexactivated | 1 |
-| 1426 | skykingatelo | 1 |
-| 1427 | asylumbl00d | 1 |
-| 1428 | fern.511 | 1 |
-| 1429 | idontfwyouzapjitts | 1 |
+| 1423 | fern.511 | 1 |
+| 1424 | idontfwyouzapjitts | 1 |
+| 1425 | firefighterwoman2277dj | 1 |
+| 1426 | jaimmies | 1 |
+| 1427 | alexactivated | 1 |
+| 1428 | skykingatelo | 1 |
+| 1429 | asylumbl00d | 1 |
 | 1430 | samuelitos_world | 1 |
 | 1431 | big.boobies.4ever | 1 |
 | 1432 | thenamesjay69 | 1 |
